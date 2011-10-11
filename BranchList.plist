@@ -908,6 +908,28 @@
 	</dict>
 	<dict>
 		<key>abbrev</key>
+		<string>LVILL</string>
+		<key>address</key>
+		<string>2311 S Kedzie Ave</string>
+		<key>endecaBranch</key>
+		<string>56</string>
+		<key>geoLat</key>
+		<string>41.849848</string>
+		<key>geoLong</key>
+		<string>-87.705144</string>
+		<key>name</key>
+		<string>Little Village</string>
+		<key>shortName</key>
+		<string>Little Village</string>
+		<key>phone</key>
+		<string>1 (312) 745-1862</string>
+		<key>scheduleType</key>
+		<string>A</string>
+		<key>zipCode</key>
+		<string>60623</string>
+	</dict>
+	<dict>
+		<key>abbrev</key>
 		<string>LGANSQ</string>
 		<key>address</key>
 		<string>3030 W Fullerton Ave</string>
