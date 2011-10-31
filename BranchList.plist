@@ -140,32 +140,11 @@
 		<key>zipCode</key>
 		<string>60617</string>
 	</dict>
-	<dict>
-		<key>abbrev</key>
-		<string>BACKOF</string>
-		<key>address</key>
-		<string>4650 S Damen Ave</string>
-		<key>endecaBranch</key>
-		<string>47</string>
-		<key>geoLat</key>
-		<string>41.809296</string>
-		<key>geoLong</key>
-		<string>-87.674876</string>
-		<key>name</key>
-		<string>Back of the Yards</string>
-		<key>shortName</key>
-		<string>Back of the Yards</string>
-		<key>phone</key>
-		<string>1 (312) 747-8367</string>
-		<key>scheduleType</key>
-		<string>A</string>
-		<key>zipCode</key>
-		<string>60609</string>
-	</dict>
+	<key>Beverly</key>
 	<dict>
 		<key>abbrev</key>
 		<string>BEVERL</string>
-		<key>address</key>
+		<key>streetAddress</key>
 		<string>1962 W 95th St</string>
 		<key>endecaBranch</key>
 		<string>48</string>
@@ -173,7 +152,7 @@
 		<string>41.720233</string>
 		<key>geoLong</key>
 		<string>-87.666349</string>
-		<key>name</key>
+		<key>longName</key>
 		<string>Beverly</string>
 		<key>shortName</key>
 		<string>Beverly</string>
