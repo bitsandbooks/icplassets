@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>Albany Park</key>
+<array>
 	<dict>
 		<key>abbrev</key>
 		<string>ALBANY</string>
@@ -19,13 +18,16 @@
 		<key>shortName</key>
 		<string>Albany Park</string>
 		<key>phone</key>
-		<string>1 (312) 744-1933</string>
+		<string>(312) 744-1933</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>0</string>
 		<key>zipCode</key>
 		<string>60625</string>
+		<key>webId</key>
+		<string>albany-park</string>
+		<key>hasCyberNavigator</key>
+		<true/>
 	</dict>
-	<key>Altgeld</key>
 	<dict>
 		<key>abbrev</key>
 		<string>ATGELD</string>
@@ -42,13 +44,16 @@
 		<key>shortName</key>
 		<string>Altgeld</string>
 		<key>phone</key>
-		<string>1 (312) 747-3270</string>
+		<string>(312) 747-3270</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60827</string>
+		<key>webId</key>
+		<string>altgeld</string>
+    <key>hasCyberNavigator</key>
+		<true/>
 	</dict>
-	<key>Archer Heights</key>
 	<dict>
 		<key>abbrev</key>
 		<string>ARCHER</string>
@@ -65,13 +70,16 @@
 		<key>shortName</key>
 		<string>Archer Heights</string>
 		<key>phone</key>
-		<string>1 (312) 747-9241</string>
+		<string>(312) 747-9241</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60632</string>
+		<key>webId</key>
+		<string>archer-heights</string>
+    <key>hasCyberNavigator</key>
+    <false/>
 	</dict>
-	<key>Austin</key>
 	<dict>
 		<key>abbrev</key>
 		<string>AUSTIN</string>
@@ -88,13 +96,16 @@
 		<key>shortName</key>
 		<string>Austin</string>
 		<key>phone</key>
-		<string>1 (312) 746-5038</string>
+		<string>(312) 746-5038</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60644</string>
+		<key>webId</key>
+		<string>austin</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Austin-Irving</key>
 	<dict>
 		<key>abbrev</key>
 		<string>AIRVNG</string>
@@ -111,13 +122,16 @@
 		<key>shortName</key>
 		<string>Austin–Irving</string>
 		<key>phone</key>
-		<string>1 (312) 744-6222</string>
+		<string>(312) 744-6222</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60634</string>
+		<key>webId</key>
+		<string>austin-irving</string>
+    <key>hasCyberNavigator</key>
+    <false/>
 	</dict>
-	<key>Avalon</key>
 	<dict>
 		<key>abbrev</key>
 		<string>AVALON</string>
@@ -134,13 +148,16 @@
 		<key>shortName</key>
 		<string>Avalon</string>
 		<key>phone</key>
-		<string>1 (312) 747-5234</string>
+		<string>(312) 747-5234</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60617</string>
+		<key>webId</key>
+		<string>avalon</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Beverly</key>
 	<dict>
 		<key>abbrev</key>
 		<string>BEVERL</string>
@@ -157,13 +174,16 @@
 		<key>shortName</key>
 		<string>Beverly</string>
 		<key>phone</key>
-		<string>1 (312) 747-9673</string>
+		<string>(312) 747-9673</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60643</string>
+		<key>webId</key>
+		<string>beverly</string>
+    <key>hasCyberNavigator</key>
+    <false/>
 	</dict>
-	<key>Bezazian</key>
 	<dict>
 		<key>abbrev</key>
 		<string>BZAZIN</string>
@@ -180,13 +200,16 @@
 		<key>shortName</key>
 		<string>Bezazian</string>
 		<key>phone</key>
-		<string>1 (312) 744-0019</string>
+		<string>(312) 744-0019</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60640</string>
+		<key>webId</key>
+		<string>bezazian</string>
+    <key>hasCyberNavigator</key>
+    <false/>
 	</dict>
-	<key>Blackstone</key>
 	<dict>
 		<key>abbrev</key>
 		<string>BLKSTN</string>
@@ -203,13 +226,16 @@
 		<key>shortName</key>
 		<string>Blackstone</string>
 		<key>phone</key>
-		<string>1 (312) 747-0511</string>
+		<string>(312) 747-0511</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60615</string>
+		<key>webId</key>
+		<string>blackstone</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Brainerd</key>
 	<dict>
 		<key>abbrev</key>
 		<string>BRAINE</string>
@@ -226,13 +252,16 @@
 		<key>shortName</key>
 		<string>Brainerd</string>
 		<key>phone</key>
-		<string>1 (312) 747-6291</string>
+		<string>(312) 747-6291</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>1</string>
 		<key>zipCode</key>
 		<string>60620</string>
+		<key>webId</key>
+		<string>brainerd</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Brighton Park</key>
 	<dict>
 		<key>abbrev</key>
 		<string>BPARK</string>
@@ -249,13 +278,16 @@
 		<key>shortName</key>
 		<string>Brighton Park</string>
 		<key>phone</key>
-		<string>1 (312) 747-0666</string>
+		<string>(312) 747-0666</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>1</string>
 		<key>zipCode</key>
 		<string>60632</string>
+		<key>webId</key>
+		<string>brighton-park</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Bucktown-Wicker Park</key>
 	<dict>
 		<key>abbrev</key>
 		<string>BTOWN</string>
@@ -272,13 +304,16 @@
 		<key>shortName</key>
 		<string>Bucktown–Wicker Park</string>
 		<key>phone</key>
-		<string>1 (312) 744-6022</string>
+		<string>(312) 744-6022</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60647</string>
+		<key>webId</key>
+		<string>bucktown-wicker-park</string>
+    <key>hasCyberNavigator</key>
+    <false/>
 	</dict>
-	<key>Budlong Woods</key>
 	<dict>
 		<key>abbrev</key>
 		<string>BUDLON</string>
@@ -295,13 +330,16 @@
 		<key>shortName</key>
 		<string>Budlong Woods</string>
 		<key>phone</key>
-		<string>1 (312) 742-9590</string>
+		<string>(312) 742-9590</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60659</string>
+		<key>webId</key>
+		<string>budlong-woods</string>
+    <key>hasCyberNavigator</key>
+    <false/>
 	</dict>
-	<key>Canaryville</key>
 	<dict>
 		<key>abbrev</key>
 		<string>CNARY</string>
@@ -318,13 +356,16 @@
 		<key>shortName</key>
 		<string>Canaryville</string>
 		<key>phone</key>
-		<string>1 (312) 747-0644</string>
+		<string>(312) 747-0644</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60609</string>
+		<key>webId</key>
+		<string>canaryville</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Chicago Bee</key>
 	<dict>
 		<key>abbrev</key>
 		<string>CBEE</string>
@@ -341,13 +382,16 @@
 		<key>shortName</key>
 		<string>Chicago Bee</string>
 		<key>phone</key>
-		<string>1 (312) 747-6872</string>
+		<string>(312) 747-6872</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60609</string>
+		<key>webId</key>
+		<string>chicago-bee</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Chicago Lawn</key>
 	<dict>
 		<key>abbrev</key>
 		<string>CGOLWN</string>
@@ -364,13 +408,16 @@
 		<key>shortName</key>
 		<string>Chicago Lawn</string>
 		<key>phone</key>
-		<string>1 (312) 747-0639</string>
+		<string>(312) 747-0639</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>1</string>
 		<key>zipCode</key>
 		<string>60629</string>
+		<key>webId</key>
+		<string>chicago-lawn</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Chinatown</key>
 	<dict>
 		<key>abbrev</key>
 		<string>CHINAT</string>
@@ -387,13 +434,16 @@
 		<key>shortName</key>
 		<string>Chinatown</string>
 		<key>phone</key>
-		<string>1 (312) 747-8013</string>
+		<string>(312) 747-8013</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60616</string>
+		<key>webId</key>
+		<string>chinatown</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Clearing</key>
 	<dict>
 		<key>abbrev</key>
 		<string>CLEARI</string>
@@ -410,13 +460,16 @@
 		<key>shortName</key>
 		<string>Clearing</string>
 		<key>phone</key>
-		<string>1 (312) 747-5657</string>
+		<string>(312) 747-5657</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60638</string>
+		<key>webId</key>
+		<string>clearing</string>
+    <key>hasCyberNavigator</key>
+    <false/>
 	</dict>
-	<key>Coleman</key>
 	<dict>
 		<key>abbrev</key>
 		<string>COLEMA</string>
@@ -429,17 +482,20 @@
 		<key>geoLong</key>
 		<string>-87.607348</string>
 		<key>longName</key>
-		<string>Coleman</string>
+		<string>Bessie Coleman</string>
 		<key>shortName</key>
 		<string>Coleman</string>
 		<key>phone</key>
-		<string>1 (312) 747-7760</string>
+		<string>(312) 747-7760</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60637</string>
+		<key>webId</key>
+		<string>bessie-coleman</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Richard J. Daley</key>
 	<dict>
 		<key>abbrev</key>
 		<string>DALEY</string>
@@ -452,17 +508,20 @@
 		<key>geoLong</key>
 		<string>-87.646251</string>
 		<key>longName</key>
-		<string>Daley, R. J. (Bridgeport)</string>
+		<string>Richard J. Daley</string>
 		<key>shortName</key>
 		<string>Daley (Bridgeport)</string>
 		<key>phone</key>
-		<string>1 (312) 747-8990</string>
+		<string>(312) 747-8990</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>1</string>
 		<key>zipCode</key>
 		<string>60608</string>
+		<key>webId</key>
+		<string>daley</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Richard M. Daley</key>
 	<dict>
 		<key>abbrev</key>
 		<string>DALEYRM</string>
@@ -479,13 +538,16 @@
 		<key>shortName</key>
 		<string>Daley (W. Humboldt Pk.)</string>
 		<key>phone</key>
-		<string>1 (312) 743-0555</string>
+		<string>(312) 743-0555</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>1</string>
 		<key>zipCode</key>
 		<string>60612</string>
+		<key>webId</key>
+		<string>daley-w-humboldt</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Douglass</key>
 	<dict>
 		<key>abbrev</key>
 		<string>DOUGLA</string>
@@ -502,13 +564,16 @@
 		<key>shortName</key>
 		<string>Douglass</string>
 		<key>phone</key>
-		<string>1 (312) 747-3725</string>
+		<string>(312) 747-3725</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>1</string>
 		<key>zipCode</key>
 		<string>60623</string>
+		<key>webId</key>
+		<string>douglass</string>
+    <key>hasCyberNavigator</key>
+    <false/>
 	</dict>
-	<key>Dunning</key>
 	<dict>
 		<key>abbrev</key>
 		<string>DUNN</string>
@@ -525,13 +590,16 @@
 		<key>shortName</key>
 		<string>Dunning</string>
 		<key>phone</key>
-		<string>1 (312) 743-0480</string>
+		<string>(312) 743-0480</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60634</string>
+		<key>webId</key>
+		<string>dunning</string>
+    <key>hasCyberNavigator</key>
+    <false/>
 	</dict>
-	<key>Edgebrook</key>
 	<dict>
 		<key>abbrev</key>
 		<string>EDGEBR</string>
@@ -548,13 +616,42 @@
 		<key>shortName</key>
 		<string>Edgebrook</string>
 		<key>phone</key>
-		<string>1 (312) 744-8313</string>
+		<string>(312) 744-8313</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60646</string>
+		<key>webId</key>
+		<string>edgebrook</string>
+    <key>hasCyberNavigator</key>
+    <false/>
 	</dict>
-	<key>Gage Park</key>
+	<dict>
+		<key>abbrev</key>
+		<string>EGWATR</string>
+		<key>streetAddress</key>
+		<string>5917 N. Broadway Street</string>
+		<key>endecaBranch</key>
+		<string>94</string>
+		<key>geoLat</key>
+		<string>41.989532</string>
+		<key>geoLong</key>
+		<string>-87.660252</string>
+		<key>longName</key>
+		<string>Edgewater</string>
+		<key>shortName</key>
+		<string>Edgewater</string>
+		<key>phone</key>
+		<string>(312) 744-XXXX</string>
+		<key>scheduleType</key>
+		<string>0</string>
+		<key>zipCode</key>
+		<string>60660</string>
+		<key>webId</key>
+		<string>edgewater</string>
+    <key>hasCyberNavigator</key>
+    <false/>
+	</dict>
 	<dict>
 		<key>abbrev</key>
 		<string>GAGEPK</string>
@@ -571,13 +668,16 @@
 		<key>shortName</key>
 		<string>Gage Park</string>
 		<key>phone</key>
-		<string>1 (312) 747-0032</string>
+		<string>(312) 747-0032</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>1</string>
 		<key>zipCode</key>
 		<string>60632</string>
+		<key>webId</key>
+		<string>gage-park</string>
+    <key>hasCyberNavigator</key>
+    <false/>
 	</dict>
-	<key>Galewood–Mont Clare</key>
 	<dict>
 		<key>abbrev</key>
 		<string>GMC</string>
@@ -594,13 +694,16 @@
 		<key>shortName</key>
 		<string>Galewood–Mont Clare</string>
 		<key>phone</key>
-		<string>1 (312) 746-0165</string>
+		<string>(312) 746-0165</string>
 		<key>scheduleType</key>
-		<string>G</string>
+		<string>3</string>
 		<key>zipCode</key>
 		<string>60707</string>
+		<key>webId</key>
+		<string>galewood-mont-clare</string>
+    <key>hasCyberNavigator</key>
+    <false/>
 	</dict>
-	<key>Garfield Ridge</key>
 	<dict>
 		<key>abbrev</key>
 		<string>GRIDGE</string>
@@ -617,13 +720,16 @@
 		<key>shortName</key>
 		<string>Garfield Ridge</string>
 		<key>phone</key>
-		<string>1 (312) 747-6094</string>
+		<string>(312) 747-6094</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>1</string>
 		<key>zipCode</key>
 		<string>60638</string>
+		<key>webId</key>
+		<string>garfield-ridge</string>
+    <key>hasCyberNavigator</key>
+    <false/>
 	</dict>
-	<key>Greater Grand Crossing</key>
 	<dict>
 		<key>abbrev</key>
 		<string>GGRAND</string>
@@ -640,13 +746,16 @@
 		<key>shortName</key>
 		<string>Greater Grand Crossing</string>
 		<key>phone</key>
-		<string>1 (312) 745-1608</string>
+		<string>(312) 745-1608</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60619</string>
+		<key>webId</key>
+		<string>greater-grand-crossing</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Hall</key>
 	<dict>
 		<key>abbrev</key>
 		<string>HALL</string>
@@ -659,17 +768,20 @@
 		<key>geoLong</key>
 		<string>-87.622850</string>
 		<key>longName</key>
-		<string>Hall</string>
+		<string>George Cleveland Hall</string>
 		<key>shortName</key>
 		<string>Hall</string>
 		<key>phone</key>
-		<string>1 (312) 747-2541</string>
+		<string>(312) 747-2541</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>1</string>
 		<key>zipCode</key>
 		<string>60615</string>
+		<key>webId</key>
+		<string>hall</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Harold Washington Library Center</key>
 	<dict>
 		<key>abbrev</key>
 		<string>H1WLC</string>
@@ -686,13 +798,16 @@
 		<key>shortName</key>
 		<string>HWLC</string>
 		<key>phone</key>
-		<string>1 (312) 747-4300</string>
+		<string>(312) 747-4300</string>
 		<key>scheduleType</key>
-		<string>R</string>
+		<string>4</string>
 		<key>zipCode</key>
 		<string>60605</string>
+		<key>webId</key>
+		<string>harold-washington</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Hegewisch</key>
 	<dict>
 		<key>abbrev</key>
 		<string>HEGEWI</string>
@@ -709,13 +824,16 @@
 		<key>shortName</key>
 		<string>Hegewisch</string>
 		<key>phone</key>
-		<string>1 (312) 747-0046</string>
+		<string>(312) 747-0046</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>1</string>
 		<key>zipCode</key>
 		<string>60633</string>
+		<key>webId</key>
+		<string>hegewisch</string>
+    <key>hasCyberNavigator</key>
+    <false/>
 	</dict>
-	<key>Humboldt Park</key>
 	<dict>
 		<key>abbrev</key>
 		<string>HUMBOL</string>
@@ -732,13 +850,16 @@
 		<key>shortName</key>
 		<string>Humboldt Park</string>
 		<key>phone</key>
-		<string>1 (312) 744-2244</string>
+		<string>(312) 744-2244</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60647</string>
+		<key>webId</key>
+		<string>humboldt</string>
+    <key>hasCyberNavigator</key>
+    <false/>
 	</dict>
-	<key>Independence</key>
 	<dict>
 		<key>abbrev</key>
 		<string>INDEPE</string>
@@ -755,13 +876,16 @@
 		<key>shortName</key>
 		<string>Independence</string>
 		<key>phone</key>
-		<string>1 (312) 744-0900</string>
+		<string>(312) 744-0900</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>1</string>
 		<key>zipCode</key>
 		<string>60618</string>
+		<key>webId</key>
+		<string>independence</string>
+    <key>hasCyberNavigator</key>
+    <false/>
 	</dict>
-	<key>Jefferson Park</key>
 	<dict>
 		<key>abbrev</key>
 		<string>JEFFER</string>
@@ -778,13 +902,16 @@
 		<key>shortName</key>
 		<string>Jefferson Park</string>
 		<key>phone</key>
-		<string>1 (312) 744-1998</string>
+		<string>(312) 744-1998</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>1</string>
 		<key>zipCode</key>
 		<string>60630</string>
+		<key>webId</key>
+		<string>jefferson-park</string>
+    <key>hasCyberNavigator</key>
+    <false/>
 	</dict>
-	<key>Jeffery Manor</key>
 	<dict>
 		<key>abbrev</key>
 		<string>JMANOR</string>
@@ -801,13 +928,16 @@
 		<key>shortName</key>
 		<string>Jeffery Manor</string>
 		<key>phone</key>
-		<string>1 (312) 747-6479</string>
+		<string>(312) 747-6479</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>1</string>
 		<key>zipCode</key>
 		<string>60617</string>
+		<key>webId</key>
+		<string>jeffery-manor</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Kelly</key>
 	<dict>
 		<key>abbrev</key>
 		<string>KELLY</string>
@@ -820,17 +950,20 @@
 		<key>geoLong</key>
 		<string>-87.637249</string>
 		<key>longName</key>
-		<string>Kelly</string>
+		<string>Hiram Kelly</string>
 		<key>shortName</key>
 		<string>Kelly</string>
 		<key>phone</key>
-		<string>1 (312) 747-8418</string>
+		<string>(312) 747-8418</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>1</string>
 		<key>zipCode</key>
 		<string>60621</string>
+		<key>webId</key>
+		<string>kelly</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>King</key>
 	<dict>
 		<key>abbrev</key>
 		<string>KING</string>
@@ -843,17 +976,20 @@
 		<key>geoLong</key>
 		<string>-87.616754</string>
 		<key>longName</key>
-		<string>King</string>
+		<string>Martin Luther King, Jr.</string>
 		<key>shortName</key>
 		<string>King</string>
 		<key>phone</key>
-		<string>1 (312) 747-7543</string>
+		<string>(312) 747-7543</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>1</string>
 		<key>zipCode</key>
 		<string>60616</string>
+		<key>webId</key>
+		<string>king</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Legler</key>
 	<dict>
 		<key>abbrev</key>
 		<string>LEGLER</string>
@@ -866,17 +1002,20 @@
 		<key>geoLong</key>
 		<string>-87.725419</string>
 		<key>longName</key>
-		<string>Legler</string>
+		<string>Henry Legler</string>
 		<key>shortName</key>
 		<string>Legler</string>
 		<key>phone</key>
-		<string>1 (312) 746-7730</string>
+		<string>(312) 746-7730</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60624</string>
+		<key>webId</key>
+		<string>legler</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Lincoln Belmont</key>
 	<dict>
 		<key>abbrev</key>
 		<string>LBELMO</string>
@@ -893,13 +1032,16 @@
 		<key>shortName</key>
 		<string>Lincoln Belmont</string>
 		<key>phone</key>
-		<string>1 (312) 744-0166</string>
+		<string>(312) 744-0166</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>1</string>
 		<key>zipCode</key>
 		<string>60657</string>
+		<key>webId</key>
+		<string>lincoln-belmont</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Lincoln Park</key>
 	<dict>
 		<key>abbrev</key>
 		<string>LINCOL</string>
@@ -916,13 +1058,16 @@
 		<key>shortName</key>
 		<string>Lincoln Park</string>
 		<key>phone</key>
-		<string>1 (312) 744-1926</string>
+		<string>(312) 744-1926</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>1</string>
 		<key>zipCode</key>
 		<string>60614</string>
+		<key>webId</key>
+		<string>lincoln-park</string>
+    <key>hasCyberNavigator</key>
+    <false/>
 	</dict>
-	<key>Little Village</key>
 	<dict>
 		<key>abbrev</key>
 		<string>LVILL</string>
@@ -939,13 +1084,16 @@
 		<key>shortName</key>
 		<string>Little Village</string>
 		<key>phone</key>
-		<string>1 (312) 745-1862</string>
+		<string>(312) 745-1862</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>1</string>
 		<key>zipCode</key>
 		<string>60623</string>
+		<key>webId</key>
+		<string>little-village</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Logan Square</key>
 	<dict>
 		<key>abbrev</key>
 		<string>LGANSQ</string>
@@ -962,13 +1110,16 @@
 		<key>shortName</key>
 		<string>Logan Square</string>
 		<key>phone</key>
-		<string>1 (312) 744-5295</string>
+		<string>(312) 744-5295</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>1</string>
 		<key>zipCode</key>
 		<string>60647</string>
+		<key>webId</key>
+		<string>logan-square</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Lozano</key>
 	<dict>
 		<key>abbrev</key>
 		<string>LOZANO</string>
@@ -981,17 +1132,20 @@
 		<key>geoLong</key>
 		<string>-87.661252</string>
 		<key>longName</key>
-		<string>Lozano</string>
+		<string>Rudy Lozano</string>
 		<key>shortName</key>
 		<string>Lozano</string>
 		<key>phone</key>
-		<string>1 (312) 746-4329</string>
+		<string>(312) 746-4329</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>1</string>
 		<key>zipCode</key>
 		<string>60608</string>
+		<key>webId</key>
+		<string>lozano</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Manning</key>
 	<dict>
 		<key>abbrev</key>
 		<string>MMANNI</string>
@@ -1004,17 +1158,20 @@
 		<key>geoLong</key>
 		<string>-87.679150</string>
 		<key>longName</key>
-		<string>Manning</string>
+		<string>Mabel Manning</string>
 		<key>shortName</key>
 		<string>Manning</string>
 		<key>phone</key>
-		<string>1 (312) 746-6800</string>
+		<string>(312) 746-6800</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60612</string>
+		<key>webId</key>
+		<string>mabel-manning</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Mayfair</key>
 	<dict>
 		<key>abbrev</key>
 		<string>MAYFAI</string>
@@ -1031,13 +1188,16 @@
 		<key>shortName</key>
 		<string>Mayfair</string>
 		<key>phone</key>
-		<string>1 (312) 744-1254</string>
+		<string>(312) 744-1254</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60630</string>
+		<key>webId</key>
+		<string>mayfair</string>
+    <key>hasCyberNavigator</key>
+    <false/>
 	</dict>
-	<key>McKinley Park</key>
 	<dict>
 		<key>abbrev</key>
 		<string>MCKINL</string>
@@ -1054,13 +1214,16 @@
 		<key>shortName</key>
 		<string>McKinley Park</string>
 		<key>phone</key>
-		<string>1 (312) 747-6082</string>
+		<string>(312) 747-6082</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60609</string>
+		<key>webId</key>
+		<string>mckinley-park</string>
+    <key>hasCyberNavigator</key>
+    <false/>
 	</dict>
-	<key>Merlo</key>
 	<dict>
 		<key>abbrev</key>
 		<string>MERLO</string>
@@ -1073,17 +1236,20 @@
 		<key>geoLong</key>
 		<string>-87.645732</string>
 		<key>longName</key>
-		<string>Merlo</string>
+		<string>John M. Merlo</string>
 		<key>shortName</key>
 		<string>Merlo</string>
 		<key>phone</key>
-		<string>1 (312) 744-1139</string>
+		<string>(312) 744-1139</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60657</string>
+		<key>webId</key>
+		<string>j-merlo-branch</string>
+    <key>hasCyberNavigator</key>
+    <false/>
 	</dict>
-	<key>Mount Greenwood</key>
 	<dict>
 		<key>abbrev</key>
 		<string>MTGRWD</string>
@@ -1100,13 +1266,16 @@
 		<key>shortName</key>
 		<string>Mount Greenwood</string>
 		<key>phone</key>
-		<string>1 (312) 747-2805</string>
+		<string>(312) 747-2805</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>1</string>
 		<key>zipCode</key>
 		<string>60655</string>
+		<key>webId</key>
+		<string>mt-greenwood</string>
+    <key>hasCyberNavigator</key>
+    <false/>
 	</dict>
-	<key>Near North</key>
 	<dict>
 		<key>abbrev</key>
 		<string>NNORTH</string>
@@ -1123,13 +1292,16 @@
 		<key>shortName</key>
 		<string>Near North</string>
 		<key>phone</key>
-		<string>1 (312) 744-0991</string>
+		<string>(312) 744-0991</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60610</string>
+		<key>webId</key>
+		<string>near-north</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>North Austin</key>
 	<dict>
 		<key>abbrev</key>
 		<string>NAUSTN</string>
@@ -1146,13 +1318,16 @@
 		<key>shortName</key>
 		<string>North Austin</string>
 		<key>phone</key>
-		<string>1 (312) 746-4233</string>
+		<string>(312) 746-4233</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60639</string>
+		<key>webId</key>
+		<string>north-austin</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>North Pulaski</key>
 	<dict>
 		<key>abbrev</key>
 		<string>NPULAS</string>
@@ -1169,13 +1344,16 @@
 		<key>shortName</key>
 		<string>North Pulaski</string>
 		<key>phone</key>
-		<string>1 (312) 744-9573</string>
+		<string>(312) 744-9573</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>1</string>
 		<key>zipCode</key>
 		<string>60639</string>
+		<key>webId</key>
+		<string>north-pulaski</string>
+    <key>hasCyberNavigator</key>
+    <false/>
 	</dict>
-	<key>Northtown</key>
 	<dict>
 		<key>abbrev</key>
 		<string>NOTOWN</string>
@@ -1192,13 +1370,16 @@
 		<key>shortName</key>
 		<string>Northtown</string>
 		<key>phone</key>
-		<string>1 (312) 744-2292</string>
+		<string>(312) 744-2292</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>1</string>
 		<key>zipCode</key>
 		<string>60645</string>
+		<key>webId</key>
+		<string>northtown</string>
+    <key>hasCyberNavigator</key>
+    <false/>
 	</dict>
-	<key>Oriole Park</key>
 	<dict>
 		<key>abbrev</key>
 		<string>ORIOLE</string>
@@ -1215,13 +1396,16 @@
 		<key>shortName</key>
 		<string>Oriole Park</string>
 		<key>phone</key>
-		<string>1 (312) 744-1965</string>
+		<string>(312) 744-1965</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60656</string>
+		<key>webId</key>
+		<string>oriole-park</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Portage-Cragin</key>
 	<dict>
 		<key>abbrev</key>
 		<string>PORTAG</string>
@@ -1238,13 +1422,16 @@
 		<key>shortName</key>
 		<string>Portage–Cragin</string>
 		<key>phone</key>
-		<string>1 (312) 744-0152</string>
+		<string>(312) 744-0152</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60641</string>
+		<key>webId</key>
+		<string>portage-cragin</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Pullman</key>
 	<dict>
 		<key>abbrev</key>
 		<string>PULLMA</string>
@@ -1261,13 +1448,16 @@
 		<key>shortName</key>
 		<string>Pullman</string>
 		<key>phone</key>
-		<string>1 (312) 747-2033</string>
+		<string>(312) 747-2033</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>1</string>
 		<key>zipCode</key>
 		<string>60628</string>
+		<key>webId</key>
+		<string>pullman</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Roden</key>
 	<dict>
 		<key>abbrev</key>
 		<string>RODEN</string>
@@ -1280,17 +1470,20 @@
 		<key>geoLong</key>
 		<string>-87.798194</string>
 		<key>longName</key>
-		<string>Roden</string>
+		<string>Carl B. Roden</string>
 		<key>shortName</key>
 		<string>Roden</string>
 		<key>phone</key>
-		<string>1 (312) 744-1478</string>
+		<string>(312) 744-1478</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>1</string>
 		<key>zipCode</key>
 		<string>60631</string>
+		<key>webId</key>
+		<string>roden</string>
+    <key>hasCyberNavigator</key>
+    <false/>
 	</dict>
-	<key>Rogers Park</key>
 	<dict>
 		<key>abbrev</key>
 		<string>RGRSPK</string>
@@ -1307,13 +1500,16 @@
 		<key>shortName</key>
 		<string>Rogers Park</string>
 		<key>phone</key>
-		<string>1 (312) 744-0156</string>
+		<string>(312) 744-0156</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60626</string>
+		<key>webId</key>
+		<string>rogers-park</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Roosevelt</key>
 	<dict>
 		<key>abbrev</key>
 		<string>RSVELT</string>
@@ -1326,17 +1522,20 @@
 		<key>geoLong</key>
 		<string>-87.654252</string>
 		<key>longName</key>
-		<string>Roosevelt</string>
+		<string>Theodore Roosevelt</string>
 		<key>shortName</key>
 		<string>Roosevelt</string>
 		<key>phone</key>
-		<string>1 (312) 746-5656</string>
+		<string>(312) 746-5656</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60607</string>
+		<key>webId</key>
+		<string>roosevelt</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Scottsdale</key>
 	<dict>
 		<key>abbrev</key>
 		<string>SCOTTS</string>
@@ -1353,13 +1552,16 @@
 		<key>shortName</key>
 		<string>Scottsdale</string>
 		<key>phone</key>
-		<string>1 (312) 747-0193</string>
+		<string>(312) 747-0193</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>1</string>
 		<key>zipCode</key>
 		<string>60652</string>
+		<key>webId</key>
+		<string>scottsdale</string>
+    <key>hasCyberNavigator</key>
+    <false/>
 	</dict>
-	<key>Sherman Park</key>
 	<dict>
 		<key>abbrev</key>
 		<string>SHERMA</string>
@@ -1376,13 +1578,16 @@
 		<key>shortName</key>
 		<string>Sherman Park</string>
 		<key>phone</key>
-		<string>1 (312) 747-0477</string>
+		<string>(312) 747-0477</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60609</string>
+		<key>webId</key>
+		<string>sherman-park</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>South Chicago</key>
 	<dict>
 		<key>abbrev</key>
 		<string>SOCHGO</string>
@@ -1399,13 +1604,16 @@
 		<key>shortName</key>
 		<string>South Chicago</string>
 		<key>phone</key>
-		<string>1 (312) 747-8065</string>
+		<string>(312) 747-8065</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60617</string>
+		<key>webId</key>
+		<string>south-chicago</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>South Shore</key>
 	<dict>
 		<key>abbrev</key>
 		<string>SSHORE</string>
@@ -1422,13 +1630,16 @@
 		<key>shortName</key>
 		<string>South Shore</string>
 		<key>phone</key>
-		<string>1 (312) 747-5281</string>
+		<string>(312) 747-5281</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>1</string>
 		<key>zipCode</key>
 		<string>60649</string>
+		<key>webId</key>
+		<string>south-shore</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Sulzer Regional</key>
 	<dict>
 		<key>abbrev</key>
 		<string>S1ULZE</string>
@@ -1441,17 +1652,20 @@
 		<key>geoLong</key>
 		<string>-87.684562</string>
 		<key>longName</key>
-		<string>Sulzer Regional</string>
+		<string>Conrad Sulzer Regional</string>
 		<key>shortName</key>
 		<string>Sulzer Regional</string>
 		<key>phone</key>
-		<string>1 (312) 744-7616</string>
+		<string>(312) 744-7616</string>
 		<key>scheduleType</key>
-		<string>R</string>
+		<string>4</string>
 		<key>zipCode</key>
 		<string>60625</string>
+		<key>webId</key>
+		<string>sulzer-regional</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Thurgood Marshall</key>
 	<dict>
 		<key>abbrev</key>
 		<string>THRMAR</string>
@@ -1468,13 +1682,16 @@
 		<key>shortName</key>
 		<string>Thurgood Marshall</string>
 		<key>phone</key>
-		<string>1 (312) 747-5927</string>
+		<string>(312) 747-5927</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60620</string>
+		<key>webId</key>
+		<string>thurgood-marshall</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Toman</key>
 	<dict>
 		<key>abbrev</key>
 		<string>TOMAN</string>
@@ -1487,17 +1704,20 @@
 		<key>geoLong</key>
 		<string>-87.724438</string>
 		<key>longName</key>
-		<string>Toman</string>
+		<string>John Toman</string>
 		<key>shortName</key>
 		<string>Toman</string>
 		<key>phone</key>
-		<string>1 (312) 745-1660</string>
+		<string>(312) 745-1660</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60623</string>
+		<key>webId</key>
+		<string>toman</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Uptown</key>
 	<dict>
 		<key>abbrev</key>
 		<string>UPTOWN</string>
@@ -1514,13 +1734,16 @@
 		<key>shortName</key>
 		<string>Uptown</string>
 		<key>phone</key>
-		<string>1 (312) 744-8400</string>
+		<string>(312) 744-8400</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>1</string>
 		<key>zipCode</key>
 		<string>60613</string>
+		<key>webId</key>
+		<string>uptown</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Vodak–East Side</key>
 	<dict>
 		<key>abbrev</key>
 		<string>VODAK</string>
@@ -1537,13 +1760,16 @@
 		<key>shortName</key>
 		<string>Vodak–East Side</string>
 		<key>phone</key>
-		<string>1 (312) 747-5500</string>
+		<string>(312) 747-5500</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60617</string>
+		<key>webId</key>
+		<string>vodak-east-side</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Walker</key>
 	<dict>
 		<key>abbrev</key>
 		<string>WALKER</string>
@@ -1556,17 +1782,20 @@
 		<key>geoLong</key>
 		<string>-87.674019</string>
 		<key>longName</key>
-		<string>Walker</string>
+		<string>George Clarke Walker</string>
 		<key>shortName</key>
 		<string>Walker</string>
 		<key>phone</key>
-		<string>1 (312) 747-1920</string>
+		<string>(312) 747-1920</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>1</string>
 		<key>zipCode</key>
 		<string>60643</string>
+		<key>webId</key>
+		<string>walker</string>
+    <key>hasCyberNavigator</key>
+    <false/>
 	</dict>
-	<key>Popular Library at Water Works</key>
 	<dict>
 		<key>abbrev</key>
 		<string>PWORKS</string>
@@ -1583,13 +1812,16 @@
 		<key>shortName</key>
 		<string>Water Works</string>
 		<key>phone</key>
-		<string>1 (312) 742-8811</string>
+		<string>(312) 742-8811</string>
 		<key>scheduleType</key>
-		<string>W</string>
+		<string>5</string>
 		<key>zipCode</key>
 		<string>60611</string>
+		<key>webId</key>
+		<string>water-works</string>
+    <key>hasCyberNavigator</key>
+    <false/>
 	</dict>
-	<key>West Belmont</key>
 	<dict>
 		<key>abbrev</key>
 		<string>WBELMO</string>
@@ -1606,13 +1838,16 @@
 		<key>shortName</key>
 		<string>West Belmont</string>
 		<key>phone</key>
-		<string>1 (312) 746-5142</string>
+		<string>(312) 746-5142</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>1</string>
 		<key>zipCode</key>
 		<string>60634</string>
+		<key>webId</key>
+		<string>west-belmont</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>West Chicago</key>
 	<dict>
 		<key>abbrev</key>
 		<string>WCHGO</string>
@@ -1629,13 +1864,16 @@
 		<key>shortName</key>
 		<string>West Chicago Ave.</string>
 		<key>phone</key>
-		<string>1 (312) 743-0260</string>
+		<string>(312) 743-0260</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>1</string>
 		<key>zipCode</key>
 		<string>60651</string>
+		<key>webId</key>
+		<string>west-chicago-avenue</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>West Englewood</key>
 	<dict>
 		<key>abbrev</key>
 		<string>WWOOD</string>
@@ -1652,13 +1890,16 @@
 		<key>shortName</key>
 		<string>West Englewood</string>
 		<key>phone</key>
-		<string>1 (312) 747-3481</string>
+		<string>(312) 747-3481</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60636</string>
+		<key>webId</key>
+		<string>west-englewood</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>West Lawn</key>
 	<dict>
 		<key>abbrev</key>
 		<string>WESTLA</string>
@@ -1675,13 +1916,16 @@
 		<key>shortName</key>
 		<string>West Lawn</string>
 		<key>phone</key>
-		<string>1 (312) 747-7381</string>
+		<string>(312) 747-7381</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60629</string>
+		<key>webId</key>
+		<string>west-lawn</string>
+    <key>hasCyberNavigator</key>
+    <false/>
 	</dict>
-	<key>West Pullman</key>
 	<dict>
 		<key>abbrev</key>
 		<string>WPULLM</string>
@@ -1698,13 +1942,16 @@
 		<key>shortName</key>
 		<string>West Pullman</string>
 		<key>phone</key>
-		<string>1 (312) 747-1425</string>
+		<string>(312) 747-1425</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60643</string>
+		<key>webId</key>
+		<string>west-pullman</string>
+    <key>hasCyberNavigator</key>
+    <false/>
 	</dict>
-	<key>West Town</key>
 	<dict>
 		<key>abbrev</key>
 		<string>WTOWN</string>
@@ -1721,13 +1968,16 @@
 		<key>shortName</key>
 		<string>West Town</string>
 		<key>phone</key>
-		<string>1 (312) 743-0450</string>
+		<string>(312) 743-0450</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>1</string>
 		<key>zipCode</key>
 		<string>60622</string>
+		<key>webId</key>
+		<string>west-town</string>
+    <key>hasCyberNavigator</key>
+    <false/>
 	</dict>
-	<key>Whitney M. Young, Jr.</key>
 	<dict>
 		<key>abbrev</key>
 		<string>WYOUNG</string>
@@ -1744,13 +1994,16 @@
 		<key>shortName</key>
 		<string>Whitney Young</string>
 		<key>phone</key>
-		<string>1 (312) 747-0039</string>
+		<string>(312) 747-0039</string>
 		<key>scheduleType</key>
-		<string>A</string>
+		<string>1</string>
 		<key>zipCode</key>
 		<string>60619</string>
+		<key>webId</key>
+		<string>whitney-young</string>
+    <key>hasCyberNavigator</key>
+    <false/>
 	</dict>
-	<key>Woodson Regional</key>
 	<dict>
 		<key>abbrev</key>
 		<string>W1OODS</string>
@@ -1767,13 +2020,16 @@
 		<key>shortName</key>
 		<string>Woodson Regional</string>
 		<key>phone</key>
-		<string>1 (312) 747-6900</string>
+		<string>(312) 747-6900</string>
 		<key>scheduleType</key>
-		<string>R</string>
+		<string>4</string>
 		<key>zipCode</key>
 		<string>60628</string>
+		<key>webId</key>
+		<string>woodson-regional</string>
+    <key>hasCyberNavigator</key>
+    <true/>
 	</dict>
-	<key>Wrightwood-Ashburn</key>
 	<dict>
 		<key>abbrev</key>
 		<string>WRIGHT</string>
@@ -1790,11 +2046,15 @@
 		<key>shortName</key>
 		<string>Wrightwood–Ashburn</string>
 		<key>phone</key>
-		<string>1 (312) 747-2696</string>
+		<string>(312) 747-2696</string>
 		<key>scheduleType</key>
-		<string>B</string>
+		<string>2</string>
 		<key>zipCode</key>
 		<string>60652</string>
+		<key>webId</key>
+		<string>wrightwood</string>
+    <key>hasCyberNavigator</key>
+    <false/>
 	</dict>
-</dict>
+</array>
 </plist>
