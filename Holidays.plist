@@ -1,28 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>New Year&apos;s Day</key>
-	<date>2013-01-01T06:00:00Z</date>
-	<key>Dr. Martin Luther King, Jr.&apos;s Birthday</key>
-	<date>2013-01-21T06:00:00Z</date>
-	<key>Lincoln&apos;s Birthday</key>
-	<date>2013-02-12T06:00:00Z</date>
-	<key>Washington&apos;s Birthday</key>
-	<date>2013-02-18T06:00:00Z</date>
-	<key>Pulaski Day</key>
-	<date>2013-03-04T06:00:00Z</date>
-	<key>Memorial Day</key>
-	<date>2013-05-27T05:00:00Z</date>
-	<key>Independence Day</key>
-	<date>2013-07-04T05:00:00Z</date>
-	<key>Labor Day</key>
-	<date>2013-09-02T05:00:00Z</date>
-	<key>Columbus Day</key>
-	<date>2013-10-14T05:00:00Z</date>
-	<key>Thanksgiving Day</key>
-	<date>2013-11-28T06:00:00Z</date>
-	<key>Christmas Day</key>
-	<date>2013-12-25T06:00:00Z</date>
-</dict>
+<array>
+	<dict>
+		<key>name</key>
+		<string>New Year&apos;s Day</string>
+		<key>year</key>
+		<string>2013</string>
+		<key>month</key>
+		<string>1</string>
+		<key>day</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Martin Luther King&apos;s Birthday</string>
+    <key>year</key>
+		<string>2013</string>
+		<key>month</key>
+		<string>1</string>
+		<key>day</key>
+		<string>21</string>
+  </dict>
+	<dict>
+		<key>name</key>
+		<string>Lincoln&apos;s Birthday</string>
+		<key>year</key>
+		<string>2013</string>
+		<key>month</key>
+		<string>2</string>
+		<key>day</key>
+		<string>12</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Washington&apos;s Birthday</string>
+    <key>year</key>
+		<string>2013</string>
+		<key>month</key>
+		<string>2</string>
+		<key>day</key>
+		<string>18</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Pulaski Day</string>
+		<key>year</key>
+		<string>2013</string>
+		<key>month</key>
+		<string>3</string>
+		<key>day</key>
+		<string>4</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Memorial Day</string>
+		<key>year</key>
+		<string>2013</string>
+		<key>month</key>
+		<string>5</string>
+		<key>day</key>
+		<string>27</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Independence Day</string>
+    <key>year</key>
+		<string>2013</string>
+		<key>month</key>
+		<string>7</string>
+		<key>day</key>
+		<string>4</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Labor Day</string>
+    <key>year</key>
+		<string>2013</string>
+		<key>month</key>
+		<string>9</string>
+		<key>day</key>
+		<string>2</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Columbus Day</string>
+    <key>year</key>
+		<string>2013</string>
+		<key>month</key>
+		<string>10</string>
+		<key>day</key>
+		<string>14</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Thanksgiving</string>
+    <key>year</key>
+		<string>2013</string>
+		<key>month</key>
+		<string>11</string>
+		<key>day</key>
+		<string>28</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Christmas Day</string>
+    <key>year</key>
+		<string>2013</string>
+		<key>month</key>
+		<string>12</string>
+		<key>day</key>
+		<string>25</string>
+	</dict>
+</array>
 </plist>
