@@ -54,6 +54,16 @@
 	</dict>
 	<dict>
 		<key>name</key>
+		<string>All Staff Day</string>
+		<key>year</key>
+		<string>2013</string>
+		<key>month</key>
+		<string>5</string>
+		<key>day</key>
+		<string>9</string>
+	</dict>
+  <dict>
+		<key>name</key>
 		<string>Memorial Day</string>
 		<key>year</key>
 		<string>2013</string>
