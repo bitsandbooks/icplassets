@@ -2,125 +2,125 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
-	<dict>
-		<key>name</key>
-		<string>New Year&apos;s Day</string>
-		<key>year</key>
-		<string>2013</string>
-		<key>month</key>
-		<string>1</string>
-		<key>day</key>
-		<string>1</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Martin Luther King&apos;s Birthday</string>
-    <key>year</key>
-		<string>2013</string>
-		<key>month</key>
-		<string>1</string>
-		<key>day</key>
-		<string>21</string>
-  </dict>
-	<dict>
-		<key>name</key>
-		<string>Lincoln&apos;s Birthday</string>
-		<key>year</key>
-		<string>2013</string>
-		<key>month</key>
-		<string>2</string>
-		<key>day</key>
-		<string>12</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Washington&apos;s Birthday</string>
-    <key>year</key>
-		<string>2013</string>
-		<key>month</key>
-		<string>2</string>
-		<key>day</key>
-		<string>18</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Pulaski Day</string>
-		<key>year</key>
-		<string>2013</string>
-		<key>month</key>
-		<string>3</string>
-		<key>day</key>
-		<string>4</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>All Staff Day</string>
-		<key>year</key>
-		<string>2013</string>
-		<key>month</key>
-		<string>5</string>
-		<key>day</key>
-		<string>9</string>
-	</dict>
   <dict>
-		<key>name</key>
-		<string>Memorial Day</string>
-		<key>year</key>
-		<string>2013</string>
-		<key>month</key>
-		<string>5</string>
-		<key>day</key>
-		<string>27</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Independence Day</string>
+    <key>name</key>
+    <string>New Year&apos;s Day</string>
     <key>year</key>
-		<string>2013</string>
-		<key>month</key>
-		<string>7</string>
-		<key>day</key>
-		<string>4</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Labor Day</string>
+    <string>2013</string>
+    <key>month</key>
+    <string>1</string>
+    <key>day</key>
+    <string>1</string>
+  </dict>
+  <dict>
+    <key>name</key>
+    <string>Martin Luther King&apos;s Birthday</string>
     <key>year</key>
-		<string>2013</string>
-		<key>month</key>
-		<string>9</string>
-		<key>day</key>
-		<string>2</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Columbus Day</string>
+    <string>2013</string>
+    <key>month</key>
+    <string>1</string>
+    <key>day</key>
+    <string>21</string>
+  </dict>
+  <dict>
+    <key>name</key>
+    <string>Lincoln&apos;s Birthday</string>
     <key>year</key>
-		<string>2013</string>
-		<key>month</key>
-		<string>10</string>
-		<key>day</key>
-		<string>14</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Thanksgiving</string>
+    <string>2013</string>
+    <key>month</key>
+    <string>2</string>
+    <key>day</key>
+    <string>12</string>
+  </dict>
+  <dict>
+    <key>name</key>
+    <string>President&apos;s Day</string>
     <key>year</key>
-		<string>2013</string>
-		<key>month</key>
-		<string>11</string>
-		<key>day</key>
-		<string>28</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Christmas Day</string>
+    <string>2013</string>
+    <key>month</key>
+    <string>2</string>
+    <key>day</key>
+    <string>18</string>
+  </dict>
+  <dict>
+    <key>name</key>
+    <string>Pulaski Day</string>
     <key>year</key>
-		<string>2013</string>
-		<key>month</key>
-		<string>12</string>
-		<key>day</key>
-		<string>25</string>
-	</dict>
+    <string>2013</string>
+    <key>month</key>
+    <string>3</string>
+    <key>day</key>
+    <string>4</string>
+  </dict>
+  <dict>
+    <key>name</key>
+    <string>Easter</string>
+    <key>year</key>
+    <string>2013</string>
+    <key>month</key>
+    <string>3</string>
+    <key>day</key>
+    <string>31</string>
+  </dict>
+  <dict>
+    <key>name</key>
+    <string>All Staff Day</string>
+    <key>year</key>
+    <string>2013</string>
+    <key>month</key>
+    <string>5</string>
+    <key>day</key>
+    <string>9</string>
+  </dict>
+  <dict>
+    <key>name</key>
+    <string>Memorial Day</string>
+    <key>year</key>
+    <string>2013</string>
+    <key>month</key>
+    <string>5</string>
+    <key>day</key>
+    <string>27</string>
+  </dict>
+  <dict>
+    <key>name</key>
+    <string>Independence Day</string>
+    <key>year</key>
+    <string>2013</string>
+    <key>month</key>
+    <string>7</string>
+    <key>day</key>
+    <string>4</string>
+  </dict>
+  <dict>
+    <key>name</key>
+    <string>Labor Day</string>
+    <key>year</key>
+    <string>2013</string>
+    <key>month</key>
+    <string>9</string>
+    <key>day</key>
+    <string>2</string>
+  </dict>
+  <dict>
+    <key>name</key>
+    <string>Thanksgiving</string>
+    <key>year</key>
+    <string>2013</string>
+    <key>month</key>
+    <string>11</string>
+    <key>day</key>
+    <string>28</string>
+  </dict>
+  <dict>
+    <key>name</key>
+    <string>Christmas Day</string>
+    <key>year</key>
+    <string>2013</string>
+    <key>month</key>
+    <string>12</string>
+    <key>day</key>
+    <string>25</string>
+  </dict>
 </array>
 </plist>
